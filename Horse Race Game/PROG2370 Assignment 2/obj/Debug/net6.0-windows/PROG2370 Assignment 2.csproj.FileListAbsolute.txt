@@ -1,0 +1,18 @@
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\bin\Debug\net6.0-windows\PROG2370 Assignment 2.exe
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\bin\Debug\net6.0-windows\PROG2370 Assignment 2.deps.json
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\bin\Debug\net6.0-windows\PROG2370 Assignment 2.runtimeconfig.json
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\bin\Debug\net6.0-windows\PROG2370 Assignment 2.dll
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\bin\Debug\net6.0-windows\PROG2370 Assignment 2.pdb
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\PROG2370 Assignment 2.csproj.AssemblyReference.cache
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\PROG2370_Assignment_2.Form1.resources
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\PROG2370_Assignment_2.Properties.Resources.resources
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\PROG2370 Assignment 2.csproj.GenerateResource.cache
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\PROG2370 Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\PROG2370 Assignment 2.AssemblyInfoInputs.cache
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\PROG2370 Assignment 2.AssemblyInfo.cs
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\PROG2370 Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\PROG2370 Assignment 2.dll
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\refint\PROG2370 Assignment 2.dll
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\PROG2370 Assignment 2.pdb
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\PROG2370 Assignment 2.genruntimeconfig.cache
+C:\Users\eesaa\OneDrive\Desktop\Temp\PROG2370 Assignment 2\PROG2370 Assignment 2\obj\Debug\net6.0-windows\ref\PROG2370 Assignment 2.dll
